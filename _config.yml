@@ -14,33 +14,31 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Pramesh Singhavi
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: ECE Student | Hardware & Software Enthusiast
 
-description: Portfolio and technical blog showcasing projects in computer architecture,control systems, and data analysis.
- # used by seo meta and the atom feed
-  
+description: >-
+  Portfolio and technical blog showcasing projects in computer architecture,
+  control systems, embedded systems, and data analysis. Building innovative
+  solutions at the intersection of hardware and software.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://prams2104.github.io"
 
 github:
-  username: prams2104 # change to your GitHub username
+  username: prams2104
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Pramesh Singhavi
-  email: prameshsinghavi02@gmail.com # change to your email address
+  email: prameshsinghavi02@gmail.com
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/prams2104
+    - https://www.linkedin.com/in/pramesh-singhavi-81bab6286/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -96,7 +94,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
