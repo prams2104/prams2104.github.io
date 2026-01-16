@@ -1,4 +1,126 @@
 ---
-layout: home
-# Index page
+layout: page
 ---
+
+<div class="text-center mb-5">
+  <h1 class="display-4">Hi, I'm Pramesh Singhavi</h1>
+  <p class="lead text-muted">
+    ECE Student | AI/ML Enthusiast | Former National Athlete | Strategy Consultant
+  </p>
+</div>
+
+<hr class="my-4">
+
+<h2>About Me</h2>
+
+<p>Born in Indonesia, raised across Brazil and Singapore, now studying <strong>Electrical Engineering</strong> at <strong>UC San Diego</strong> with specializations in Machine Learning & Controls and Computer System Design. My journey spans competitive cricket (Singapore U16/U19 national teams), military service (Singapore Armed Forces), and now building AI systems and working in strategy consulting.</p>
+
+<p>I'm passionate about bridging hardware and software, finding unexpected connections between different fields, and solving complex problems with creative solutions.</p>
+
+<p><a href="/about/">Read my full story →</a></p>
+
+<hr class="my-4">
+
+<h2>Experience Highlights</h2>
+
+<p><strong>Monitor Deloitte</strong> – Strategy Consultant Intern (Summer 2025)<br>
+Market entry strategy for pharmaceutical clients in Indonesia</p>
+
+<p><strong>Ernst & Young</strong> – Technology Consultant Intern (Summer 2024)<br>
+Cybersecurity frameworks for Port Singapore Authority</p>
+
+<p><strong>Singapore Armed Forces</strong> – National Serviceman (2020-2022)<br>
+Led 30-member platoon, Best Navigator Award</p>
+
+<p><strong>Singapore Cricket Association</strong> – National Athlete (2015-2020)<br>
+Vice-captain of U16/U19 teams, historic victory over Hong Kong</p>
+
+<hr class="my-4">
+
+<h2>Featured Projects</h2>
+
+<h3>🤖 OpsPilot – AI-Powered Operations System</h3>
+<p>Built a full-stack reconciliation system using <strong>FastAPI and Claude API</strong> to automate trade validation with dual validation strategies and natural language explanations.</p>
+<p><strong>Tech:</strong> Python, FastAPI, SQLAlchemy, Claude API</p>
+
+<h3>🚗 Sim-to-Real Robot Navigation</h3>
+<p>Led a team developing <strong>RL models in Unreal Engine</strong> for autonomous PiCar navigation, achieving reliable sim-to-real transfer in collaboration with AMD engineers.</p>
+<p><strong>Tech:</strong> Unreal Engine, Python, Stable-Baselines3</p>
+
+<h3>📈 AI Marketing Optimization</h3>
+<p>Created a GPT-based content generation pipeline that achieved <strong>67% improvement</strong> in CTA clarity for small businesses across multiple platforms.</p>
+<p><strong>Tech:</strong> Python, GPT-3.5 API, NLP</p>
+
+<p><a href="/projects/">View all projects →</a></p>
+
+<hr class="my-4">
+
+<h2>Featured Writing</h2>
+
+<style>
+.featured-post {
+  margin-bottom: 2rem;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s;
+}
+
+.featured-post:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.featured-post-image {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+}
+
+.featured-post-content {
+  padding: 1.5rem;
+}
+
+.featured-post h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.featured-post .post-meta {
+  color: #6c757d;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+</style>
+
+{% for post in site.posts %}
+  {% if post.title contains "Financialization" or post.title contains "Fusion" or post.title contains "Attention Economy" %}
+  <div class="featured-post">
+    {% if post.image.path %}
+    <img src="{{ post.image.path }}" alt="{{ post.title }}" class="featured-post-image">
+    {% endif %}
+    <div class="featured-post-content">
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+      <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+      <a href="{{ post.url }}">Read more →</a>
+    </div>
+  </div>
+  {% endif %}
+{% endfor %}
+
+<p><a href="/blogs/">View all posts →</a></p>
+
+<hr class="my-4">
+
+<h2>Let's Connect</h2>
+
+<p>Currently exploring opportunities in <strong>AI/ML, robotics, and strategy consulting</strong>. Always interested in discussing innovative projects or exchanging ideas.</p>
+
+<p>
+📧 <a href="mailto:prameshsinghavi02@gmail.com">Email</a> | 
+💼 <a href="https://www.linkedin.com/in/pramesh-singhavi-81bab6286/">LinkedIn</a> | 
+💻 <a href="https://github.com/prams2104">GitHub</a> | 
+📄 <a href="/assets/resume/Pramesh_Resume.pdf">Resume</a>
+</p>

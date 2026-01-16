@@ -29,7 +29,7 @@ Designed and built a full-stack reconciliation system to automate trade/ledger v
 
 **Tech Stack:** Python, FastAPI, SQLAlchemy, SQLite, Claude API, JavaScript, REST APIs
 
-[View on GitHub](#) | [Read More](#)
+[View on GitHub](https://github.com/prams2104/opspilot)
 
 ---
 
@@ -47,8 +47,6 @@ Led a 5-member team developing autonomous navigation for a PiCar using reinforce
 
 **Tech Stack:** Unreal Engine, Python, C++, Stable-Baselines3, AMD Schola
 
-[View on GitHub](#) | [Read More](#)
-
 ---
 
 ### 📈 AI Marketing Optimization for Small Businesses
@@ -63,8 +61,6 @@ Built a lightweight AI pipeline generating high-conversion, platform-specific ma
 - Achieved near-zero loss through quality-weighted fine-tuning
 
 **Tech Stack:** Python, GPT-3.5 API, NLP, Few-Shot Learning
-
-[View on GitHub](#) | [Read More](#)
 
 ---
 

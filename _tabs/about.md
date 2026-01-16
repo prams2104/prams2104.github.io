@@ -38,8 +38,8 @@ When I'm not coding or studying, you'll find me:
 - Running marathons (completed one, still recovering)
 - Experimenting in the kitchen (with mixed results)
 - Reading about nuclear fusion and astrophysics
-- Playing poker or hiking
-- Writing at [The Uncharted Angles](https://www.theunchartedangles.com/)
+- Drinking coffee and trying new wines!
+- Anything outdoors!
 
 ### Current Focus
 
