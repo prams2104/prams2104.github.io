@@ -15,7 +15,7 @@ Before engineering, I spent two years in the **Singapore Armed Forces** as a Nat
 
 ### The Athletic Chapter
 
-Cricket was my first love. I vice-captained Singapore's **U16 and U19 national teams**, competed internationally, and was part of the first youth team to defeat Hong Kong. Those years taught me discipline, teamwork, and how to perform under pressure—whether facing a fast bowler or a tight project deadline.
+Cricket was my first love. I vice-captained Singapore's **U16 and U19 national teams**, competed internationally, and was part of the first youth team to defeat Hong Kong. Those years taught me discipline, teamwork, and how to perform under pressure.
 
 ### What I'm Building
 
@@ -60,8 +60,7 @@ I'm always interested in discussing AI/ML projects, robotics, strategy consultin
 
 📧 **Email:** [prameshsinghavi02@gmail.com](mailto:prameshsinghavi02@gmail.com)  
 💼 **LinkedIn:** [Pramesh Singhavi](https://www.linkedin.com/in/pramesh-singhavi-81bab6286/)  
-💻 **GitHub:** [@prams2104](https://github.com/prams2104)  
-📝 **Blog:** [The Uncharted Angles](https://www.theunchartedangles.com/)  
+💻 **GitHub:** [@prams2104](https://github.com/prams2104)   
 📄 **Resume:** [Download PDF](/assets/resume/Pramesh_Resume.pdf)
 
 ---
