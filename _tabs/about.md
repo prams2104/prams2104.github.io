@@ -32,7 +32,7 @@ My technical interests lie at the intersection of **AI, robotics, and systems de
 
 ### Beyond Engineering
 
-I'm deeply curious about how different fields connect. I've minored in Finance (markets are just puzzles with money), previously studied Theatre (why not?), and love finding unexpected parallels—like how cricket strategy relates to business decision-making, or how AI intersects with creativity.
+I'm deeply curious about how different fields connect. I've minored in Business (markets are just puzzles with money), previously studied Theatre (why not?), and love finding unexpected parallels—like how cricket strategy relates to business decision-making, or how AI intersects with creativity.
 
 When I'm not coding or studying, you'll find me:
 - Running marathons (completed one, still recovering)
