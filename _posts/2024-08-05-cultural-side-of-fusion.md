@@ -1,6 +1,6 @@
 ---
 title: "The Cultural Side of Fusion: Why Do We Love the Idea So Much?"
-date: 2024-08-05 10:00:00 -0800
+date: 2025-08-05 10:00:00 -0800
 categories: [Blog, Science]
 tags: [nuclear-fusion, physics, culture, science-fiction, energy]
 image:

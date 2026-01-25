@@ -1,6 +1,6 @@
 ---
 title: "Decentralized Everything: Beyond Crypto Buzzwords"
-date: 2024-10-20 10:00:00 -0800
+date: 2025-10-20 10:00:00 -0800
 categories: [Blog, Technology]
 tags: [decentralization, blockchain, web3, crypto, governance, society]
 image:

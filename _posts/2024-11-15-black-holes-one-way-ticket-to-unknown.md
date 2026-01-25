@@ -1,6 +1,6 @@
 ---
 title: "Black Holes: A One-Way Ticket to the Unknown"
-date: 2024-11-15 10:00:00 -0800
+date: 2025-11-15 10:00:00 -0800
 categories: [Blog, Science]
 tags: [physics, astrophysics, black-holes, space, cosmology]
 image:

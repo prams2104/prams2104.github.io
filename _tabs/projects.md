@@ -16,6 +16,21 @@ title: Projects
 
 ## Featured Projects
 
+### 🎨 Figma Mini – Real-Time Collaborative Design Board
+**Winter 2026 | React, TypeScript, Node.js, Socket.IO**
+
+Built a lightweight collaborative canvas application enabling multiple users to simultaneously create and edit shapes with instant synchronization, live cursor tracking, and version history.
+
+**Key Achievements:**
+- Architected full-stack real-time system with WebSocket communication for <100ms synchronization across distributed clients
+- Implemented event-driven backend broadcasting drawing events and cursor positions to all connected users
+- Developed local version history with undo/redo functionality while maintaining shared canvas state synchronization
+- Optimized HTML5 Canvas rendering for smooth concurrent editing without flickering or performance degradation
+
+**Tech Stack:** React, TypeScript, Node.js, Express, Socket.IO, HTML5 Canvas API, Vite
+
+[View on GitHub](https://github.com/prams2104/figma-mini) | [Watch Demo](https://youtu.be/QWXNByalFuE)
+
 ### 🤖 OpsPilot – AI-Powered Operations Reconciliation System
 **Winter 2026 | Python, FastAPI, SQLAlchemy, Claude API**
 

@@ -1,6 +1,6 @@
 ---
 title: "The Financialization of Everything: Are We Turning Life Into a Market?"
-date: 2024-07-15 10:00:00 -0800
+date: 2025-07-15 10:00:00 -0800
 categories: [Blog, Society]
 tags: [finance, capitalism, hustle-culture, social-media, relationships, education]
 image:

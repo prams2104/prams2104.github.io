@@ -1,6 +1,6 @@
 ---
 title: "Time Hacking: Is Productivity Culture Warping Our Perception of Time?"
-date: 2024-06-20 10:00:00 -0800
+date: 2025-06-20 10:00:00 -0800
 categories: [Blog, Productivity]
 tags: [productivity, time-management, hustle-culture, mindfulness, life-balance]
 image:

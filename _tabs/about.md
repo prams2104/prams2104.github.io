@@ -22,6 +22,7 @@ Cricket was my first love. I vice-captained Singapore's **U16 and U19 national t
 My technical interests lie at the intersection of **AI, robotics, and systems design**:
 
 **Recent Projects:**
+- **Figma Mini** - Built a real-time collaborative design board with WebSocket synchronization enabling multiple users to draw simultaneously with live cursors and version history
 - **OpsPilot** - Built an AI-powered reconciliation system using FastAPI and Claude API to automate trade validation and anomaly detection
 - **Sim-to-Real Robot Navigation** - Led a team developing RL models in Unreal Engine for autonomous PiCar navigation, collaborating with AMD engineers
 - **AI Marketing Optimization** - Created a GPT-based content generation pipeline that improved CTA clarity by 67% for small businesses

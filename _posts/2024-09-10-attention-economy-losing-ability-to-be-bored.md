@@ -1,6 +1,6 @@
 ---
 title: "The Attention Economy: Are We Losing the Ability to Be Bored?"
-date: 2024-09-10 10:00:00 -0800
+date: 2025-09-10 10:00:00 -0800
 categories: [Blog, Society]
 tags: [attention-economy, social-media, productivity, technology, digital-life]
 image:
