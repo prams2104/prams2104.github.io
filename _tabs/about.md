@@ -62,7 +62,7 @@ I'm always interested in discussing AI/ML projects, robotics, strategy consultin
 📧 **Email:** [prameshsinghavi02@gmail.com](mailto:prameshsinghavi02@gmail.com)  
 💼 **LinkedIn:** [Pramesh Singhavi](https://www.linkedin.com/in/pramesh-singhavi-81bab6286/)  
 💻 **GitHub:** [@prams2104](https://github.com/prams2104)   
-📄 **Resume:** [Download PDF](/assets/resume/Pramesh_Resume.pdf)
+📄 **Resume:** [Main Resume](/assets/resume/Pramesh_Resume.pdf), [SWE Resume](/assets/resume/Pramesh_SWE_Resume.pdf), [Quant Resume](/assets/resume/Pramesh_Tech_Resume.pdf)
 
 ---
 
