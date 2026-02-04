@@ -16,6 +16,23 @@ title: Projects
 
 ## Featured Projects
 
+### 📈 Cryptocurrency Cross-Sectional Momentum Strategy
+**Winter 2026 | Python, Pandas, NumPy, Matplotlib**
+
+Developed and backtested a statistical arbitrage strategy on 9 liquid cryptocurrencies (BTC, ETH, BNB, XRP, ADA, SOL, DOGE, AVAX, DOT) over a 6-year period (2020-2026), achieving strong risk-adjusted returns with proper transaction cost modeling.
+
+**Key Achievements:**
+- Backtested 20-day cross-sectional momentum strategy achieving 1.39 Sharpe ratio (gross), 0.71 Sharpe net of 20 bps transaction costs over 2,226 trading days
+- Discovered structural regime break in 2023: cross-sectional dispersion collapsed 38% (3.20% → 1.98%), causing momentum Sharpe to degrade from 1.04 to 0.23
+- Implemented production-grade backtesting methodology: lookahead bias prevention (shift+1), dynamic eligibility enforcement, winsorized returns to handle extreme volatility
+- Conducted comprehensive transaction cost sensitivity analysis (5-40 bps), finding momentum remains profitable up to 35-40 bps breakeven cost
+- Validated market neutrality through rolling 60-day beta analysis (centered at zero), confirming returns driven by cross-sectional alpha rather than directional exposure
+- Tested 1-day mean-reversion strategy: found catastrophically unprofitable (Sharpe -3.88 at 20 bps) due to 128% daily turnover vs 29% for momentum
+
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Binance API, Statistical Backtesting, Time-Series Analysis
+
+[View on GitHub](https://github.com/prams2104/crypto-momentum-backtest)
+
 ### 🎨 Figma Mini – Real-Time Collaborative Design Board
 **Winter 2026 | React, TypeScript, Node.js, Socket.IO**
 

@@ -22,6 +22,7 @@ Cricket was my first love. I vice-captained Singapore's **U16 and U19 national t
 My technical interests lie at the intersection of **AI, robotics, and systems design**:
 
 **Recent Projects:**
+- **Cryptocurrency Cross-Sectional Momentum Strategy** - Backtested statistical arbitrage strategy on 9 cryptocurrencies achieving 1.39 Sharpe ratio (gross), 0.71 net over 6 years with proper backtesting methodology and full transaction cost analysis
 - **Figma Mini** - Built a real-time collaborative design board with WebSocket synchronization enabling multiple users to draw simultaneously with live cursors and version history
 - **OpsPilot** - Built an AI-powered reconciliation system using FastAPI and Claude API to automate trade validation and anomaly detection
 - **Sim-to-Real Robot Navigation** - Led a team developing RL models in Unreal Engine for autonomous PiCar navigation, collaborating with AMD engineers
