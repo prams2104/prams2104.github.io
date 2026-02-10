@@ -16,20 +16,19 @@ title: Projects
 
 ## Featured Projects
 
-### 📈 Cryptocurrency Cross-Sectional Momentum Strategy
+### 📈 Cryptocurrency Cross-Sectional Momentum Research
 **Winter 2026 | Python, Pandas, NumPy, Matplotlib**
 
-Developed and backtested a statistical arbitrage strategy on 9 liquid cryptocurrencies (BTC, ETH, BNB, XRP, ADA, SOL, DOGE, AVAX, DOT) over a 6-year period (2020-2026), achieving strong risk-adjusted returns with proper transaction cost modeling.
+Rigorous research project evaluating cross-sectional momentum and reversal strategies on **25 liquid cryptocurrencies** over 6+ years (2020–2026) using an institutional-style **train / validation / out-of-sample** framework, alpha regression, and realistic transaction costs.
 
-**Key Achievements:**
-- Backtested 20-day cross-sectional momentum strategy achieving 1.39 Sharpe ratio (gross), 0.71 Sharpe net of 20 bps transaction costs over 2,226 trading days
-- Discovered structural regime break in 2023: cross-sectional dispersion collapsed 38% (3.20% → 1.98%), causing momentum Sharpe to degrade from 1.04 to 0.23
-- Implemented production-grade backtesting methodology: lookahead bias prevention (shift+1), dynamic eligibility enforcement, winsorized returns to handle extreme volatility
-- Conducted comprehensive transaction cost sensitivity analysis (5-40 bps), finding momentum remains profitable up to 35-40 bps breakeven cost
-- Validated market neutrality through rolling 60-day beta analysis (centered at zero), confirming returns driven by cross-sectional alpha rather than directional exposure
-- Tested 1-day mean-reversion strategy: found catastrophically unprofitable (Sharpe -3.88 at 20 bps) due to 128% daily turnover vs 29% for momentum
+**Key Findings & Achievements:**
+- Built market-neutral long/short portfolios with proper execution timing (shift+1), dynamic eligibility, and winsorized returns to avoid look-ahead bias and outliers
+- Showed that a 20-day momentum strategy with strong in-sample alpha **completely fails** in validation and out-of-sample once a 2023 regime break (≈38% collapse in cross-sectional dispersion) is accounted for
+- Demonstrated that a 1-day reversal strategy delivers **highly significant alpha** out-of-sample (t-stat > 4) but is **unimplementable** in practice due to ~138% daily turnover and cost drag
+- Ran full alpha regression vs BTC to separate true cross-sectional alpha from market exposure, and validated market neutrality via rolling beta analysis
+- Performed transaction cost sweeps (5–40 bps) and period-by-period analysis to show how seemingly good strategies break once costs and regime changes are incorporated
 
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Binance API, Statistical Backtesting, Time-Series Analysis
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Binance API, statistical backtesting, alpha regression, time-series analysis
 
 [View on GitHub](https://github.com/prams2104/crypto-momentum-backtest)
 
