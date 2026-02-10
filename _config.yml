@@ -134,9 +134,9 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: true # The option for PWA feature (installable)
+  enabled: false # Disable PWA install banner
   cache:
-    enabled: true # The option for PWA offline cache
+    enabled: false # Disable offline cache to avoid stale content
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
     # shares the same domain name as the current website.
